@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Virat Kohli",
+      "userName": "Virat",
+      "Email": "vk@123gmail.com",
+      "PhoneNo": "9140868172",
+      "id": 1
+    },
+    {
+      "name": "Mahendra Singh Dhoni",
+      "userName": "mahi",
+      "Email": "mahi7@gmail.com",
+      "PhoneNo": "7777777777",
+      "id": 2
+    },
+    {
+      "name": "Rishabh Rai",
+      "userName": "rishabh",
+      "Email": "rishabh00000rai@gmail.com",
+      "PhoneNo": "+919140868171",
+      "id": 3
+    }
+  ]
+}
