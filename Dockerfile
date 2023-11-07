@@ -6,4 +6,4 @@ COPY . /crud-application
 RUN npm install 
 
 EXPOSE 3000
-CMD ["npm","start"]
+CMD ["npm","start","start-json-server"]
